@@ -1,11 +1,11 @@
 # test_individual_project
 
-##Introduction
+## Introduction
 
-##Data
+## Data
 
-#Sources of data
+# Sources of data
 
-#Data Catogory
+# Data Catogory
 
-#Data learning
+# Data learning
