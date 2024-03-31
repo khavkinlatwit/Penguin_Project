@@ -1,5 +1,14 @@
 # Penguin Report
 
+3 quuestions:
+Is there a correlation between the body mass and flipper length of the penguins in the dataset?
+
+What is the median body mass of female Adelie penguins in the dataset?
+
+If the dataset includes measurements for three species of penguins (Adelie, Chinstrap, and Gentoo), what is the standard deviation of body mass within each species?
+
+
+
 ## Introduction
   
 In this exploration of the Palmer Archipelago Antarctica Penguin Dataset, our analysis will focus on addressing several key questions that shed light on various aspects of penguin biology and ecology. Firstly, we aim to investigate whether there exists a correlation between the body mass and flipper length of the penguins documented in the dataset, offering insights into potential relationships between these physical attributes. Additionally, we seek to determine the median body mass specifically among female Adélie penguins, a crucial demographic for understanding species-specific variations. Furthermore, with the dataset encompassing measurements from three distinct penguin species – Adélie, Chinstrap, and Gentoo – we will calculate the standard deviation of body mass within each species. This statistical analysis will unveil the variability in body mass within populations of these penguin species, providing valuable information for comparative studies and conservation efforts tailored to each species' unique characteristics and requirements. By addressing these questions, we aim to contribute to a deeper understanding of the intricate dynamics within Antarctic penguin populations and the broader implications for their conservation and management.
