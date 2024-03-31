@@ -22,8 +22,10 @@ In this exploration of the Palmer Archipelago Antarctica Penguin Dataset, our an
 ## Methods
 
 ## Results
-[link](https://jupyter.cs.wit.edu/user/khavkinl/notebooks/Penguin.ipynb)
 
 ## Discussion 
 
 # Link to Code
+
+[ipynb file](https://jupyter.cs.wit.edu/user/khavkinl/notebooks/Penguin.ipynb)
+
