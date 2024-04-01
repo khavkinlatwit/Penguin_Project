@@ -1,11 +1,11 @@
 # Penguin Report
 
 3 quuestions:
-Is there a correlation between the body mass and flipper length of the penguins in the dataset?
+1.)Is there a correlation between the body mass and flipper length of the penguins in the dataset?
 
-What is the median body mass of female Adelie penguins in the dataset?
+2.)is there a significant difrernce between the body mass of the Adiele species fo penguins and the chinstrap species of penguins.
 
-If the dataset includes measurements for three species of penguins (Adelie, Chinstrap, and Gentoo), what is the standard deviation of body mass within each species?
+3.) If the dataset includes measurements for three species of penguins (Adelie, Chinstrap, and Gentoo), what is the standard deviation of body mass within each species?
 
 
 
