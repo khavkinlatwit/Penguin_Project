@@ -1,34 +1,21 @@
 # Penguin Report
-
-3 quuestions:
-1.)Is there a correlation between the body mass and flipper length of the penguins in the dataset?
-
-2.)is there a significant difrernce between the body mass of the Adiele species fo penguins and the chinstrap species of penguins.
-
-3.) If the dataset includes measurements for three species of penguins (Adelie, Chinstrap, and Gentoo), what is the standard deviation of body mass within each species?
-
+###Leo Khavkin
 
 
 ## Introduction
   
-In this exploration of the Palmer Archipelago Antarctica Penguin Dataset, our analysis will focus on addressing several key questions that shed light on various aspects of penguin biology and ecology. Firstly, we aim to investigate whether there exists a correlation between the body mass and flipper length of the penguins documented in the dataset, offering insights into potential relationships between these physical attributes. Additionally, we seek to determine the median body mass specifically among female Adélie penguins, a crucial demographic for understanding species-specific variations. Furthermore, with the dataset encompassing measurements from three distinct penguin species – Adélie, Chinstrap, and Gentoo – we will calculate the standard deviation of body mass within each species. This statistical analysis will unveil the variability in body mass within populations of these penguin species, providing valuable information for comparative studies and conservation efforts tailored to each species' unique characteristics and requirements. By addressing these questions, we aim to contribute to a deeper understanding of the intricate dynamics within Antarctic penguin populations and the broader implications for their conservation and management.
 
-
-
-
-
-
-  
-
-  
-
-
+The project was undertaken to investigate several key questions regarding the physical attributes of penguins in the Palmer Archipelago, Antarctica. Firstly, the researchers sought to determine if there exists a correlation between the body mass and flipper length of the penguins within the dataset. Secondly, they aimed to ascertain whether a significant difference in body mass exists between the Adélie species and the chinstrap species of penguins. Lastly, the researchers endeavored to explore the correlation between flipper length and flipper depth among the penguins. Utilizing the comprehensive dataset available, the study aimed to provide insights into these specific relationships, contributing to a deeper understanding of penguin biology and ecology in the Antarctic region.
 
 
 ## Selection of Data
 
  The Palmer Archipelago, nestled within the frigid embrace of Antarctica, serves as a critical habitat for various species, including penguins. Studying these resilient inhabitants provides invaluable insights into the delicate ecosystems of the region and the broader impacts of climate change. The Palmer Archipelago Antarctica Penguin Dataset, available on Kaggle, encapsulates comprehensive data on penguin populations within this pristine environment. This dataset offers researchers, environmentalists, and enthusiasts a unique opportunity to delve into the lives, behaviors, and ecological dynamics of three penguin species: Adélie, Chinstrap, and Gentoo. With detailed measurements, observations, and metadata, this dataset serves as a cornerstone for diverse analyses, ranging from population trends and habitat preferences to the effects of environmental factors on these iconic Antarctic residents. Whether exploring patterns of migration, reproductive success rates, or anthropogenic impacts, the Palmer Archipelago Antarctica Penguin Dataset presents a rich tapestry of information, fostering deeper understanding and informed conservation efforts for these charismatic creatures and their fragile home.
+
 ## Methods
+
+In addressing the research questions, the project utilized various materials and tools within Jupyter environment. These included essential libraries such as pandas for data manipulation, seaborn for data visualization, matplotlib.pyplot for creating plots, numpy for numerical computations, and scipy.stats for statistical analysis. However, before delving into analysis, it was imperative to preprocess the data due to the presence of null entries. Cleaning the data involved identifying and handling missing values appropriately to ensure the integrity and accuracy of subsequent analyses and findings.
+
 
 ## Results
 
