@@ -23,5 +23,5 @@ In addressing the research questions, the project utilized various materials and
 
 ##### Code
 
-[ipynb file](https://jupyter.cs.wit.edu/user/khavkinl/notebooks/Penguin.ipynb)
+[Penguin Data ipynb](https://jupyter.cs.wit.edu/user/khavkinl/notebooks/Penguin.ipynb)
 
