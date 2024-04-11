@@ -1,5 +1,5 @@
 # Penguin Report
-### Leo Khavkin
+##### By: Leo Khavkin
 
 
 ## Introduction
