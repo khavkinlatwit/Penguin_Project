@@ -19,6 +19,8 @@ In addressing the research questions, the project utilized various materials and
 
 ## Results
 
+#### Results for question 1:
+
 ## Discussion 
 
 ##### Code
